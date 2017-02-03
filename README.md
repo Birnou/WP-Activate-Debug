@@ -1,2 +1,2 @@
 # WP-Activate-Debug
-Files need to activate the debug environment in WordPress
+Files needed to activate the debug environment in WordPress
